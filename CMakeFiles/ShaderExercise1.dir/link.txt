@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/ShaderExercise1.dir/src/shader_exercise1.cpp.o CMakeFiles/ShaderExercise1.dir/src/glad.c.o -o ShaderExercise1  -Wl,-rpath,/opt/homebrew/lib /opt/homebrew/lib/libglfw.3.4.dylib -framework IOKit -framework Cocoa -framework OpenGL

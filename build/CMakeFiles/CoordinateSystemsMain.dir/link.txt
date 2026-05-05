@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/CoordinateSystemsMain.dir/src/coordinate_systems_main.cpp.o CMakeFiles/CoordinateSystemsMain.dir/src/glad.c.o -o CoordinateSystemsMain  -Wl,-rpath,/opt/homebrew/lib /opt/homebrew/lib/libglfw.3.4.dylib -framework IOKit -framework Cocoa -framework OpenGL

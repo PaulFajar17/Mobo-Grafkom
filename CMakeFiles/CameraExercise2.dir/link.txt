@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/CameraExercise2.dir/src/camera_exercise2.cpp.o CMakeFiles/CameraExercise2.dir/src/glad.c.o -o CameraExercise2  -Wl,-rpath,/opt/homebrew/lib /opt/homebrew/lib/libglfw.3.4.dylib -framework IOKit -framework Cocoa -framework OpenGL

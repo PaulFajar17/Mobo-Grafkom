@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/LightingMapsExercise1.dir/src/lighting_maps_exercise1.cpp.o CMakeFiles/LightingMapsExercise1.dir/src/glad.c.o -o LightingMapsExercise1  -Wl,-rpath,/opt/homebrew/lib /opt/homebrew/lib/libglfw.3.4.dylib -framework IOKit -framework Cocoa -framework OpenGL

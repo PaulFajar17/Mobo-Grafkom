@@ -1,0 +1,429 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Threads::Threads::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Threads__Threads-Debug-90f571dbeb63d6fb5bae.json",
+					"name" : "Threads::Threads",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "assimp::assimp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-assimp__assimp-Debug-ba0612806b8c162f49c2.json",
+					"name" : "assimp::assimp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "glfw::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-glfw-Debug-cd9bc9962cea1a9d0ff0.json",
+					"name" : "glfw",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-9ad1a58d4644cf6543fa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OpenGLSetup",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BasicLightingExercise1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BasicLightingExercise1-Debug-8a38f63659b9b04efe7f.json",
+					"name" : "BasicLightingExercise1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BasicLightingExercise2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BasicLightingExercise2-Debug-a07155a860e50c596e76.json",
+					"name" : "BasicLightingExercise2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BasicLightingExercise3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BasicLightingExercise3-Debug-4e49efa59a81d53fbfa7.json",
+					"name" : "BasicLightingExercise3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BasicLightingExercise4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BasicLightingExercise4-Debug-e02fd3526121533b6648.json",
+					"name" : "BasicLightingExercise4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BasicLightingMain::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BasicLightingMain-Debug-ea3793afa7942dbd009b.json",
+					"name" : "BasicLightingMain",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CameraExercise1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CameraExercise1-Debug-1dd67c3955c703b5522d.json",
+					"name" : "CameraExercise1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CameraExercise2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CameraExercise2-Debug-212abcac9387a520947a.json",
+					"name" : "CameraExercise2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CameraMain::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CameraMain-Debug-86f8956e2a7cb043f0ce.json",
+					"name" : "CameraMain",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CoordinateSystemsExercise1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CoordinateSystemsExercise1-Debug-0dea5c246c9d32d12920.json",
+					"name" : "CoordinateSystemsExercise1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CoordinateSystemsExercise2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CoordinateSystemsExercise2-Debug-b306251889e3d79cbcfc.json",
+					"name" : "CoordinateSystemsExercise2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CoordinateSystemsExercise3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CoordinateSystemsExercise3-Debug-b41e271ff981a5f6938d.json",
+					"name" : "CoordinateSystemsExercise3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CoordinateSystemsMain::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CoordinateSystemsMain-Debug-0c0eba476246dd45b6b5.json",
+					"name" : "CoordinateSystemsMain",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercise1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercise1-Debug-3c346ce580c92b71e29b.json",
+					"name" : "Exercise1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercise2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercise2-Debug-35449547cc242cb92454.json",
+					"name" : "Exercise2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercise3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercise3-Debug-e450bf85a586013a4d08.json",
+					"name" : "Exercise3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LightingMapsExercise1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LightingMapsExercise1-Debug-9e8f6b9ec5b829aed287.json",
+					"name" : "LightingMapsExercise1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LightingMapsExercise2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LightingMapsExercise2-Debug-e87043c965e035223d98.json",
+					"name" : "LightingMapsExercise2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LightingMapsExercise3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LightingMapsExercise3-Debug-17de8a710ab1b51c7500.json",
+					"name" : "LightingMapsExercise3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LightingMapsMain::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LightingMapsMain-Debug-8c67658740e3d40d5c59.json",
+					"name" : "LightingMapsMain",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MaterialsExercise1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MaterialsExercise1-Debug-a7f21f5962547b7f244b.json",
+					"name" : "MaterialsExercise1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MaterialsExercise2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MaterialsExercise2-Debug-f92c7748c521c433ebf7.json",
+					"name" : "MaterialsExercise2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MaterialsMain::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MaterialsMain-Debug-c54a6c9f42985a6a875b.json",
+					"name" : "MaterialsMain",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ModelLoadingMain::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ModelLoadingMain-Debug-bd651f785a1ce4d7a35b.json",
+					"name" : "ModelLoadingMain",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MultipleLightsExercise1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MultipleLightsExercise1-Debug-e56503659df47d6e0a40.json",
+					"name" : "MultipleLightsExercise1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenGLSetup::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenGLSetup-Debug-40d9d895871366204fe1.json",
+					"name" : "OpenGLSetup",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ShaderExercise1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ShaderExercise1-Debug-8fb5a3de1b3cc132f88d.json",
+					"name" : "ShaderExercise1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ShaderExercise2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ShaderExercise2-Debug-8a9f927012751265074c.json",
+					"name" : "ShaderExercise2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ShaderExercise3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ShaderExercise3-Debug-515fba4a96ca814bf875.json",
+					"name" : "ShaderExercise3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TextureExercise1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TextureExercise1-Debug-85138eb1818747f7ab7c.json",
+					"name" : "TextureExercise1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TextureExercise2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TextureExercise2-Debug-b2c3b9b3ed9c742a4205.json",
+					"name" : "TextureExercise2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TextureExercise3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TextureExercise3-Debug-566d0c563005969510db.json",
+					"name" : "TextureExercise3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TextureExercise4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TextureExercise4-Debug-315ae1ed021d54721754.json",
+					"name" : "TextureExercise4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TextureMain::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TextureMain-Debug-2e1bc1200472aedba046.json",
+					"name" : "TextureMain",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TransformExercise1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TransformExercise1-Debug-988c9048730306510072.json",
+					"name" : "TransformExercise1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TransformExercise2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TransformExercise2-Debug-fc59e659cbbd0866761d.json",
+					"name" : "TransformExercise2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TransformMain::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TransformMain-Debug-cc32ef75a3021de7b208.json",
+					"name" : "TransformMain",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TugasAkhir::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TugasAkhir-Debug-90cbe3d0ae174a694e17.json",
+					"name" : "TugasAkhir",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TugasPersegi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TugasPersegi-Debug-7c6a037c6822bee954f4.json",
+					"name" : "TugasPersegi",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/build",
+		"source" : "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	}
+}

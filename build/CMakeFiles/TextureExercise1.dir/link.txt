@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/TextureExercise1.dir/src/texture_exercise1.cpp.o CMakeFiles/TextureExercise1.dir/src/glad.c.o -o TextureExercise1  -Wl,-rpath,/opt/homebrew/lib /opt/homebrew/lib/libglfw.3.4.dylib -framework IOKit -framework Cocoa -framework OpenGL

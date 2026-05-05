@@ -1,0 +1,434 @@
+[
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/OpenGLSetup.dir/src/main.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/main.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/main.cpp",
+  "output": "CMakeFiles/OpenGLSetup.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/OpenGLSetup.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/OpenGLSetup.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/Exercise1.dir/src/exercise1.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/exercise1.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/exercise1.cpp",
+  "output": "CMakeFiles/Exercise1.dir/src/exercise1.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/Exercise1.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/Exercise1.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/Exercise2.dir/src/exercise2.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/exercise2.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/exercise2.cpp",
+  "output": "CMakeFiles/Exercise2.dir/src/exercise2.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/Exercise2.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/Exercise2.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/Exercise3.dir/src/exercise3.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/exercise3.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/exercise3.cpp",
+  "output": "CMakeFiles/Exercise3.dir/src/exercise3.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/Exercise3.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/Exercise3.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/ShaderExercise1.dir/src/shader_exercise1.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/shader_exercise1.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/shader_exercise1.cpp",
+  "output": "CMakeFiles/ShaderExercise1.dir/src/shader_exercise1.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/ShaderExercise1.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/ShaderExercise1.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/ShaderExercise2.dir/src/shader_exercise2.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/shader_exercise2.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/shader_exercise2.cpp",
+  "output": "CMakeFiles/ShaderExercise2.dir/src/shader_exercise2.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/ShaderExercise2.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/ShaderExercise2.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/ShaderExercise3.dir/src/shader_exercise3.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/shader_exercise3.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/shader_exercise3.cpp",
+  "output": "CMakeFiles/ShaderExercise3.dir/src/shader_exercise3.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/ShaderExercise3.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/ShaderExercise3.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/TransformMain.dir/src/transform_main.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/transform_main.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/transform_main.cpp",
+  "output": "CMakeFiles/TransformMain.dir/src/transform_main.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/TransformMain.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/TransformMain.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/TransformExercise1.dir/src/transform_exercise1.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/transform_exercise1.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/transform_exercise1.cpp",
+  "output": "CMakeFiles/TransformExercise1.dir/src/transform_exercise1.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/TransformExercise1.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/TransformExercise1.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/TransformExercise2.dir/src/transform_exercise2.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/transform_exercise2.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/transform_exercise2.cpp",
+  "output": "CMakeFiles/TransformExercise2.dir/src/transform_exercise2.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/TransformExercise2.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/TransformExercise2.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/TextureMain.dir/src/texture_main.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/texture_main.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/texture_main.cpp",
+  "output": "CMakeFiles/TextureMain.dir/src/texture_main.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/TextureMain.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/TextureMain.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/TextureExercise1.dir/src/texture_exercise1.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/texture_exercise1.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/texture_exercise1.cpp",
+  "output": "CMakeFiles/TextureExercise1.dir/src/texture_exercise1.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/TextureExercise1.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/TextureExercise1.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/TextureExercise2.dir/src/texture_exercise2.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/texture_exercise2.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/texture_exercise2.cpp",
+  "output": "CMakeFiles/TextureExercise2.dir/src/texture_exercise2.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/TextureExercise2.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/TextureExercise2.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/TextureExercise3.dir/src/texture_exercise3.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/texture_exercise3.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/texture_exercise3.cpp",
+  "output": "CMakeFiles/TextureExercise3.dir/src/texture_exercise3.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/TextureExercise3.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/TextureExercise3.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/TextureExercise4.dir/src/texture_exercise4.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/texture_exercise4.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/texture_exercise4.cpp",
+  "output": "CMakeFiles/TextureExercise4.dir/src/texture_exercise4.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/TextureExercise4.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/TextureExercise4.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/CoordinateSystemsMain.dir/src/coordinate_systems_main.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/coordinate_systems_main.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/coordinate_systems_main.cpp",
+  "output": "CMakeFiles/CoordinateSystemsMain.dir/src/coordinate_systems_main.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/CoordinateSystemsMain.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/CoordinateSystemsMain.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/CoordinateSystemsExercise1.dir/src/coordinate_systems_exercise1.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/coordinate_systems_exercise1.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/coordinate_systems_exercise1.cpp",
+  "output": "CMakeFiles/CoordinateSystemsExercise1.dir/src/coordinate_systems_exercise1.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/CoordinateSystemsExercise1.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/CoordinateSystemsExercise1.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/CoordinateSystemsExercise2.dir/src/coordinate_systems_exercise2.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/coordinate_systems_exercise2.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/coordinate_systems_exercise2.cpp",
+  "output": "CMakeFiles/CoordinateSystemsExercise2.dir/src/coordinate_systems_exercise2.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/CoordinateSystemsExercise2.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/CoordinateSystemsExercise2.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/CoordinateSystemsExercise3.dir/src/coordinate_systems_exercise3.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/coordinate_systems_exercise3.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/coordinate_systems_exercise3.cpp",
+  "output": "CMakeFiles/CoordinateSystemsExercise3.dir/src/coordinate_systems_exercise3.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/CoordinateSystemsExercise3.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/CoordinateSystemsExercise3.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/CameraMain.dir/src/camera_main.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/camera_main.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/camera_main.cpp",
+  "output": "CMakeFiles/CameraMain.dir/src/camera_main.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/CameraMain.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/CameraMain.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/CameraExercise1.dir/src/camera_exercise1.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/camera_exercise1.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/camera_exercise1.cpp",
+  "output": "CMakeFiles/CameraExercise1.dir/src/camera_exercise1.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/CameraExercise1.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/CameraExercise1.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/CameraExercise2.dir/src/camera_exercise2.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/camera_exercise2.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/camera_exercise2.cpp",
+  "output": "CMakeFiles/CameraExercise2.dir/src/camera_exercise2.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/CameraExercise2.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/CameraExercise2.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/TugasPersegi.dir/src/tugas_persegi.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/tugas_persegi.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/tugas_persegi.cpp",
+  "output": "CMakeFiles/TugasPersegi.dir/src/tugas_persegi.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/TugasPersegi.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/TugasPersegi.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/BasicLightingMain.dir/src/basic_lighting_main.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/basic_lighting_main.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/basic_lighting_main.cpp",
+  "output": "CMakeFiles/BasicLightingMain.dir/src/basic_lighting_main.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/BasicLightingMain.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/BasicLightingMain.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/BasicLightingExercise1.dir/src/basic_lighting_exercise1.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/basic_lighting_exercise1.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/basic_lighting_exercise1.cpp",
+  "output": "CMakeFiles/BasicLightingExercise1.dir/src/basic_lighting_exercise1.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/BasicLightingExercise1.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/BasicLightingExercise1.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/BasicLightingExercise2.dir/src/basic_lighting_exercise2.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/basic_lighting_exercise2.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/basic_lighting_exercise2.cpp",
+  "output": "CMakeFiles/BasicLightingExercise2.dir/src/basic_lighting_exercise2.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/BasicLightingExercise2.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/BasicLightingExercise2.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/BasicLightingExercise3.dir/src/basic_lighting_exercise3.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/basic_lighting_exercise3.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/basic_lighting_exercise3.cpp",
+  "output": "CMakeFiles/BasicLightingExercise3.dir/src/basic_lighting_exercise3.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/BasicLightingExercise3.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/BasicLightingExercise3.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/BasicLightingExercise4.dir/src/basic_lighting_exercise4.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/basic_lighting_exercise4.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/basic_lighting_exercise4.cpp",
+  "output": "CMakeFiles/BasicLightingExercise4.dir/src/basic_lighting_exercise4.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/BasicLightingExercise4.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/BasicLightingExercise4.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/MaterialsMain.dir/src/materials_main.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/materials_main.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/materials_main.cpp",
+  "output": "CMakeFiles/MaterialsMain.dir/src/materials_main.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/MaterialsMain.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/MaterialsMain.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/MaterialsExercise1.dir/src/materials_exercise1.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/materials_exercise1.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/materials_exercise1.cpp",
+  "output": "CMakeFiles/MaterialsExercise1.dir/src/materials_exercise1.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/MaterialsExercise1.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/MaterialsExercise1.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/MaterialsExercise2.dir/src/materials_exercise2.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/materials_exercise2.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/materials_exercise2.cpp",
+  "output": "CMakeFiles/MaterialsExercise2.dir/src/materials_exercise2.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/MaterialsExercise2.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/MaterialsExercise2.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/LightingMapsMain.dir/src/lighting_maps_main.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/lighting_maps_main.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/lighting_maps_main.cpp",
+  "output": "CMakeFiles/LightingMapsMain.dir/src/lighting_maps_main.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/LightingMapsMain.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/LightingMapsMain.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/LightingMapsExercise1.dir/src/lighting_maps_exercise1.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/lighting_maps_exercise1.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/lighting_maps_exercise1.cpp",
+  "output": "CMakeFiles/LightingMapsExercise1.dir/src/lighting_maps_exercise1.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/LightingMapsExercise1.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/LightingMapsExercise1.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/LightingMapsExercise2.dir/src/lighting_maps_exercise2.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/lighting_maps_exercise2.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/lighting_maps_exercise2.cpp",
+  "output": "CMakeFiles/LightingMapsExercise2.dir/src/lighting_maps_exercise2.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/LightingMapsExercise2.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/LightingMapsExercise2.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/LightingMapsExercise3.dir/src/lighting_maps_exercise3.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/lighting_maps_exercise3.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/lighting_maps_exercise3.cpp",
+  "output": "CMakeFiles/LightingMapsExercise3.dir/src/lighting_maps_exercise3.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/LightingMapsExercise3.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/LightingMapsExercise3.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/MultipleLightsExercise1.dir/src/multiple_lights_exercise1.cpp.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/multiple_lights_exercise1.cpp\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/multiple_lights_exercise1.cpp",
+  "output": "CMakeFiles/MultipleLightsExercise1.dir/src/multiple_lights_exercise1.cpp.o"
+},
+{
+  "directory": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2",
+  "command": "/usr/bin/cc -DGL_SILENCE_DEPRECATION -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/include\" -I\"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/glm\" -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/MultipleLightsExercise1.dir/src/glad.c.o -c \"/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c\"",
+  "file": "/Users/paulfajar/Documents/Grafika Komputer/Praktikum2/src/glad.c",
+  "output": "CMakeFiles/MultipleLightsExercise1.dir/src/glad.c.o"
+}
+]

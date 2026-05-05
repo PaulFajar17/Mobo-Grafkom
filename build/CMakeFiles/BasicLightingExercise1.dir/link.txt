@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/BasicLightingExercise1.dir/src/basic_lighting_exercise1.cpp.o CMakeFiles/BasicLightingExercise1.dir/src/glad.c.o -o BasicLightingExercise1  -Wl,-rpath,/opt/homebrew/lib /opt/homebrew/lib/libglfw.3.4.dylib -framework IOKit -framework Cocoa -framework OpenGL
