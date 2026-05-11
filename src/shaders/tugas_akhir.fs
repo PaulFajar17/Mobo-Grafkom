@@ -69,7 +69,7 @@ void main()
     }
     
     // Minimal ambient to always see something even if lights are off
-    result += vec3(0.05) * vec3(texture(material.texture_diffuse1, TexCoords));
+    result += vec3(0.3) * vec3(texture(material.texture_diffuse1, TexCoords));
     
     FragColor = vec4(result, 1.0);
 }

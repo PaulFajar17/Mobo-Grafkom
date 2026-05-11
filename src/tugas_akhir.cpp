@@ -36,8 +36,10 @@ float lastFrame = 0.0f;
 // toggles
 bool pointLightOn = true;
 bool spotLightOn = true;
+bool isYellowColor = true;
 bool lKeyPressed = false;
 bool kKeyPressed = false;
+bool cKeyPressed = false;
 
 // info toggles
 bool showingInfo1 = false;
@@ -222,10 +224,10 @@ int main()
     glm::vec3 model1Pos(-6.0f, 1.55f, 0.0f);
     glm::vec3 model2Pos(6.0f, 1.55f, 0.0f);
     
-    glm::vec3 spotlight1Pos(-6.0f, 8.0f, 0.0f);
+    glm::vec3 spotlight1Pos(-6.0f, 4.0f, 0.0f);
     glm::vec3 spotlight1Dir(0.0f, -1.0f, 0.0f); // Pointing down
     
-    glm::vec3 spotlight2Pos(6.0f, 8.0f, 0.0f);
+    glm::vec3 spotlight2Pos(6.0f, 4.0f, 0.0f);
     glm::vec3 spotlight2Dir(0.0f, -1.0f, 0.0f); // Pointing down
 
     ourShader.use();
@@ -274,7 +276,8 @@ int main()
         if (camera.Position.x >  14.0f) camera.Position.x =  14.0f;
         if (camera.Position.z < -14.0f) camera.Position.z = -14.0f;
         if (camera.Position.z >  14.0f) camera.Position.z =  14.0f;
-        camera.Position.y = 1.8f; // Standard walking height
+        if (camera.Position.y <   0.5f) camera.Position.y =   0.5f; // Floor collision
+        if (camera.Position.y >   9.5f) camera.Position.y =   9.5f; // Ceiling collision
 
         // render
         // ------
@@ -289,36 +292,38 @@ int main()
 
         // Point light (ceiling)
         ourShader.setVec3("pointLight.position", pointLightPos);
-        ourShader.setVec3("pointLight.ambient", 0.05f, 0.05f, 0.05f);
+        ourShader.setVec3("pointLight.ambient", 0.2f, 0.2f, 0.2f);
         ourShader.setVec3("pointLight.diffuse", 1.0f, 1.0f, 1.0f); // White light
         ourShader.setVec3("pointLight.specular", 1.0f, 1.0f, 1.0f);
         ourShader.setFloat("pointLight.constant", 1.0f);
         ourShader.setFloat("pointLight.linear", 0.09f);
         ourShader.setFloat("pointLight.quadratic", 0.032f);
 
-        // Spotlight 1 (Model 1)
+        // Determine color for the display lights
+        glm::vec3 displayLightColor = isYellowColor ? glm::vec3(1.0f, 0.8f, 0.0f) : glm::vec3(1.0f, 1.0f, 1.0f);
+
         ourShader.setVec3("spotLight1.position", spotlight1Pos);
         ourShader.setVec3("spotLight1.direction", spotlight1Dir);
-        ourShader.setVec3("spotLight1.ambient", 0.0f, 0.0f, 0.0f);
-        ourShader.setVec3("spotLight1.diffuse", 1.0f, 0.8f, 0.0f); // Yellow light
-        ourShader.setVec3("spotLight1.specular", 1.0f, 0.8f, 0.0f);
+        ourShader.setVec3("spotLight1.ambient", 0.1f, 0.1f, 0.1f);
+        ourShader.setVec3("spotLight1.diffuse", displayLightColor); 
+        ourShader.setVec3("spotLight1.specular", displayLightColor);
         ourShader.setFloat("spotLight1.constant", 1.0f);
         ourShader.setFloat("spotLight1.linear", 0.09f);
         ourShader.setFloat("spotLight1.quadratic", 0.032f);
-        ourShader.setFloat("spotLight1.cutOff", glm::cos(glm::radians(12.5f)));
-        ourShader.setFloat("spotLight1.outerCutOff", glm::cos(glm::radians(15.0f)));
+        ourShader.setFloat("spotLight1.cutOff", glm::cos(glm::radians(45.0f)));
+        ourShader.setFloat("spotLight1.outerCutOff", glm::cos(glm::radians(55.0f)));
         
         // Spotlight 2 (Model 2)
         ourShader.setVec3("spotLight2.position", spotlight2Pos);
         ourShader.setVec3("spotLight2.direction", spotlight2Dir);
-        ourShader.setVec3("spotLight2.ambient", 0.0f, 0.0f, 0.0f);
-        ourShader.setVec3("spotLight2.diffuse", 1.0f, 0.8f, 0.0f); // Yellow light
-        ourShader.setVec3("spotLight2.specular", 1.0f, 0.8f, 0.0f);
+        ourShader.setVec3("spotLight2.ambient", 0.1f, 0.1f, 0.1f);
+        ourShader.setVec3("spotLight2.diffuse", displayLightColor);
+        ourShader.setVec3("spotLight2.specular", displayLightColor);
         ourShader.setFloat("spotLight2.constant", 1.0f);
         ourShader.setFloat("spotLight2.linear", 0.09f);
         ourShader.setFloat("spotLight2.quadratic", 0.032f);
-        ourShader.setFloat("spotLight2.cutOff", glm::cos(glm::radians(12.5f)));
-        ourShader.setFloat("spotLight2.outerCutOff", glm::cos(glm::radians(15.0f)));
+        ourShader.setFloat("spotLight2.cutOff", glm::cos(glm::radians(45.0f)));
+        ourShader.setFloat("spotLight2.outerCutOff", glm::cos(glm::radians(55.0f)));
 
         ourShader.setVec3("viewPos", camera.Position);
 
@@ -361,20 +366,31 @@ int main()
         glBindVertexArray(cubeVAO);
         glDrawArrays(GL_TRIANGLES, 0, 36);
 
-        // Render 3D Models
+        // Objek light bulb telah dihapus agar tidak mengganggu pemandangan
+
+        // Render 3D Models (Stationary on table, portrait mode)
+        
         // Model 1
         model = glm::mat4(1.0f);
-        model = glm::translate(model, model1Pos);
-        model = glm::scale(model, glm::vec3(0.05f, 0.05f, 0.05f));	
+        // Place it so its center is near eye level (1.8f) and rests on the table (1.5f)
+        model = glm::translate(model, glm::vec3(model1Pos.x, 1.8f, model1Pos.z));
+        // Rotate to face the front (rotated 90 degrees from previous position)
+        model = glm::rotate(model, glm::radians(0.0f), glm::vec3(0.0f, 1.0f, 0.0f)); 
+        // Stand upright (X-axis) and make it portrait (Z-axis)
+        model = glm::rotate(model, glm::radians(90.0f), glm::vec3(1.0f, 0.0f, 0.0f)); 
+        model = glm::rotate(model, glm::radians(90.0f), glm::vec3(0.0f, 0.0f, 1.0f));
+        model = glm::scale(model, glm::vec3(0.15f, 0.15f, 0.15f));	
         ourShader.setMat4("model", model);
         model1.Draw(ourShader);
         
         // Model 2
         model = glm::mat4(1.0f);
-        model = glm::translate(model, model2Pos);
-        model = glm::scale(model, glm::vec3(0.05f, 0.05f, 0.05f));
-        // Rotate the second one to look different
-        model = glm::rotate(model, glm::radians(45.0f), glm::vec3(0.0f, 1.0f, 0.0f));
+        model = glm::translate(model, glm::vec3(model2Pos.x, 1.8f, model2Pos.z));
+        // Rotate to face the front (rotated 90 degrees from previous position)
+        model = glm::rotate(model, glm::radians(0.0f), glm::vec3(0.0f, 1.0f, 0.0f));
+        model = glm::rotate(model, glm::radians(90.0f), glm::vec3(1.0f, 0.0f, 0.0f)); 
+        model = glm::rotate(model, glm::radians(90.0f), glm::vec3(0.0f, 0.0f, 1.0f));
+        model = glm::scale(model, glm::vec3(0.15f, 0.15f, 0.15f));
         ourShader.setMat4("model", model);
         model2.Draw(ourShader);
         
@@ -438,6 +454,13 @@ void processInput(GLFWwindow *window)
     if (glfwGetKey(window, GLFW_KEY_D) == GLFW_PRESS)
         camera.ProcessKeyboard(RIGHT, deltaTime);
         
+    // Camera vertical movement (Up/Down arrows)
+    float velocity = camera.MovementSpeed * deltaTime;
+    if (glfwGetKey(window, GLFW_KEY_UP) == GLFW_PRESS)
+        camera.Position += glm::vec3(0.0f, 1.0f, 0.0f) * velocity;
+    if (glfwGetKey(window, GLFW_KEY_DOWN) == GLFW_PRESS)
+        camera.Position -= glm::vec3(0.0f, 1.0f, 0.0f) * velocity;
+        
     // Toggle Point Light ('L' key)
     if (glfwGetKey(window, GLFW_KEY_L) == GLFW_PRESS && !lKeyPressed) {
         pointLightOn = !pointLightOn;
@@ -454,6 +477,15 @@ void processInput(GLFWwindow *window)
         std::cout << "Spotlights: " << (spotLightOn ? "ON" : "OFF") << std::endl;
     } else if (glfwGetKey(window, GLFW_KEY_K) == GLFW_RELEASE) {
         kKeyPressed = false;
+    }
+
+    // Toggle Spot Light Color ('C' key)
+    if (glfwGetKey(window, GLFW_KEY_C) == GLFW_PRESS && !cKeyPressed) {
+        isYellowColor = !isYellowColor;
+        cKeyPressed = true;
+        std::cout << "Display Lights Color: " << (isYellowColor ? "YELLOW" : "WHITE") << std::endl;
+    } else if (glfwGetKey(window, GLFW_KEY_C) == GLFW_RELEASE) {
+        cKeyPressed = false;
     }
 }
 
